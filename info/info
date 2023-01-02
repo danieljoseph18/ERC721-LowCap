@@ -1,0 +1,3 @@
+Transaction Hash: 0x09c047ca6ded5bb79bf4bc17dc289442e6e31c3636943a6774fcd25b61bdb251sage.
+Contract Address: 0xEC6a9Ae51340Cd68343592f67cD3CBb90ba2B055
+Verify Plugin: "npm install -D truffle-plugin-verify"
